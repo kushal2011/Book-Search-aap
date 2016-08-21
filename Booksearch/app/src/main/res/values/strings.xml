@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book search</string>
+    <string name="Name">NameOfBook</string>
+    <string name="author">Author</string>
+    <string name="searching">Search Help</string>
+    <string name="network_error">Internet not available,try again</string>
+    <string name="search_any_book">search any book</string>
+</resources>
